@@ -1,100 +1,87 @@
-<!-- Header Neon Cyberpunk / Sci-Fi Futuristik -->
+<!-- Clean Futuristic Neon Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090d16,35:00f2fe,70:4facfe,100:f093fb&height=230&section=header&text=FARHAN%20FIRMANSYAH&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=%5B%20INFORMATICS%20ENGINEERING%20%E2%80%A2%20UPN%20%22VETERAN%22%20JATIM%20%5D&descAlignY=62&descSize=15&animation=twinkling&stroke=00f2fe&strokeWidth=2" width="100%" alt="Cyberpunk Neon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:0f172a,100:090d16&height=180&section=header&text=FARHAN%20FIRMANSYAH&fontSize=44&fontColor=38bdf8&fontAlignY=42&desc=INFORMATICS%20ENGINEERING%20%7C%20SOFTWARE%20%26%20WEB%20DEVELOPER&descAlignY=66&descSize=14&descColor=94a3b8&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<!-- Efek Teks Mengetik Otomatis Gaya Terminal Sci-Fi -->
+<!-- Sleek Neon Typing Terminal -->
 <div align="center">
   <a href="https://paanss.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=700&lines=%3E+SYSTEM_ONLINE%3A+WEB_DEVELOPER+%26+SOFTWARE_DEV;%3E+BUILDING+RESPONSIVE+%26+INTERACTIVE_INTERFACES;%3E+LOW-LEVEL+C%2FC%2B%2B+%26+DATA_STRUCTURES_ENGINE;%3E+STATUS%3A+OPEN_FOR_INTERNSHIP_%26_COLLABORATION" alt="Sci-Fi Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=%2F%2F+Building+responsive+%26+interactive+web+interfaces;%2F%2F+Designing+efficient+backend+%26+database+architectures;%2F%2F+Low-level+C%2FC%2B%2B+%26+Data+Structures+engineering;%2F%2F+Open+for+internships%2C+freelance+%26+collaborations" alt="Typing SVG" />
   </a>
-</div>
-
-<!-- Garis Pemisah Neon Animasi -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
 </div>
 
 <br/>
 
-### 👨‍💻 `01 // TENTANG SAYA`
+### `01 // ABOUT ME`
 
-Saya adalah mahasiswa Teknik Informatika di **UPN "Veteran" Jawa Timur** yang berfokus pada **Pemrograman Web** dan **pengembangan perangkat lunak**. Memiliki ketertarikan kuat dalam membangun antarmuka web yang responsif, interaktif, serta merancang arsitektur backend dan basis data yang efisien.
+I am an **Informatics Engineering** student at **UPN "Veteran" Jawa Timur**, specializing in **Web Development** and **Software Engineering**. I am passionate about crafting responsive, interactive user interfaces alongside efficient backend architectures and relational databases.
 
-Selain web development, saya juga memiliki pemahaman dasar dalam pemrograman tingkat rendah (*low-level programming* menggunakan **C/C++**) dan manajemen struktur data, yang membantu saya membangun aplikasi dengan logika yang kuat dan terstruktur.
+Beyond full-stack web technologies, I have a solid foundation in **low-level programming (C/C++)** and **data structures**, enabling me to build software with clean, optimized, and scalable logic.
 
-> ⚡ **SYSTEM STATUS:** Terbuka untuk kesempatan **magang**, **proyek freelance**, dan **kolaborasi** di bidang Web Development.
+> ⚡ **STATUS:** Currently open to **internship opportunities**, **freelance projects**, and **technical collaborations** in Web Development.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-</div>
+<br/>
 
-### 🛠️ `02 // TECH STACK & KEAHLIAN`
+### `02 // TECH STACK & CORE SKILLS`
 
 <div align="center">
 
-| Modul Sistem | Teknologi & Tools |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **🌐 Web Technologies** | ![HTML5](https://img.shields.io/badge/HTML5-090d16?style=for-the-badge&logo=html5&logoColor=00f2fe) ![CSS3](https://img.shields.io/badge/CSS3-090d16?style=for-the-badge&logo=css3&logoColor=00f2fe) ![JavaScript](https://img.shields.io/badge/JavaScript-090d16?style=for-the-badge&logo=javascript&logoColor=f093fb) ![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-090d16?style=for-the-badge&logo=figma&logoColor=f093fb) |
-| **🗄️ Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL%20%2F%20XAMPP-090d16?style=for-the-badge&logo=mysql&logoColor=00f2fe) ![Git](https://img.shields.io/badge/Git-090d16?style=for-the-badge&logo=git&logoColor=f093fb) ![Netlify](https://img.shields.io/badge/Netlify-090d16?style=for-the-badge&logo=netlify&logoColor=00f2fe) |
-| **⚙️ Core Programming** | ![C](https://img.shields.io/badge/C-090d16?style=for-the-badge&logo=c&logoColor=00f2fe) ![C++](https://img.shields.io/badge/C%2B%2B-090d16?style=for-the-badge&logo=cplusplus&logoColor=f093fb) ![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-090d16?style=for-the-badge&logo=thealgorithms&logoColor=00f2fe) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38bdf8) ![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8) ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38bdf8) ![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-0f172a?style=for-the-badge&logo=figma&logoColor=38bdf8) |
+| **Database & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL_%2F_XAMPP-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8) ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38bdf8) ![Netlify](https://img.shields.io/badge/Netlify-0f172a?style=for-the-badge&logo=netlify&logoColor=38bdf8) |
+| **Core Programming** | ![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=38bdf8) ![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38bdf8) ![Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=38bdf8) |
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-</div>
+<br/>
 
-### 🚀 `03 // PROYEK UNGGULAN`
+### `03 // FEATURED PROJECTS`
 
-#### 1. 🌐 Web Application Development & Deployment *(Apr 2026 – Mei 2026)*
-Merancang dan membangun antarmuka halaman web yang responsif dan interaktif menggunakan teknologi web modern serta melakukan proses deployment aplikasi.
-* **Tech Stack:** HTML5, CSS3, JavaScript, Web Design, Netlify
-* **Afiliasi:** UPN "Veteran" Jawa Timur
+#### 🔹 Web Application Development & Deployment `Apr 2026 – May 2026`
+Designed and engineered a responsive, interactive web application interface using modern front-end standards and executed cloud deployment workflows[cite: 1].
+* **Stack:** `HTML5` `CSS3` `JavaScript` `UI/UX Web Design` `Netlify`
+* **Affiliation:** UPN "Veteran" Jawa Timur[cite: 1]
 
-#### 2. 🎟️ Omio Mini Ticketing & Inventory Management System *(Apr 2025 – Mei 2025)*
-Membangun logika pemesanan tiket dan manajemen inventaris dengan implementasi algoritma serta struktur data (**Graph, DFS, Queue, Linked List**) untuk alur data yang terstruktur.
-* **Tech Stack:** C/C++, Software Development, Data Structures & Algorithms
-* **Afiliasi:** UPN "Veteran" Jawa Timur
+#### 🔹 Omio Mini Ticketing & Inventory Management System `Apr 2025 – May 2025`
+Engineered a ticket booking and inventory management engine powered by core data structures and graph traversal algorithms (**Graph, DFS, Queue, Linked List**) for structured data processing[cite: 1].
+* **Stack:** `C/C++` `Software Development` `Data Structures & Algorithms`
+* **Affiliation:** UPN "Veteran" Jawa Timur[cite: 1]
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-</div>
+<br/>
 
-### 📊 `04 // STATISTIK & TELEMETRI GITHUB`
+### `04 // GITHUB TELEMETRY`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paanss&show_icons=true&theme=radical&bg_color=090d16&title_color=00f2fe&icon_color=f093fb&text_color=ffffff&border_color=00f2fe" alt="Statistik GitHub Farhan" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paanss&layout=compact&theme=radical&bg_color=090d16&title_color=00f2fe&text_color=ffffff&border_color=00f2fe" alt="Bahasa Pemrograman Teratas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paanss&show_icons=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paanss&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paanss&background=090d16&border=00f2fe&stroke=00f2fe&ring=f093fb&fire=00f2fe&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f2fe&sideLabels=f093fb&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paanss&background=0f172a&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-</div>
+<br/>
 
-### 📡 `05 // HUBUNGI & TERHUBUNG`
+### `05 // CONNECT WITH ME`
 
 <div align="center">
-  <p>Tertarik berdiskusi mengenai proyek web, kesempatan magang, atau kolaborasi? Buka saluran komunikasi melalui tautan di bawah ini:</p>
+  <p>Interested in discussing web engineering, internships, or project collaborations? Reach out via any channel below:</p>
   <p>
     <a href="https://paanss.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE_PORTFOLIO-paanss.github.io-090d16?style=for-the-badge&logo=githubpages&logoColor=00f2fe" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-paanss.github.io-0f172a?style=for-the-badge&logo=githubpages&logoColor=38bdf8" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/farhan-firmansyah-ba9227329" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-Farhan_Firmansyah-090d16?style=for-the-badge&logo=linkedin&logoColor=00f2fe" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-Farhan_Firmansyah-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
     </a>
     <a href="mailto:farhanfirmansah6@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-farhanfirmansah6%40gmail.com-090d16?style=for-the-badge&logo=gmail&logoColor=f093fb" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-farhanfirmansah6%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" alt="Email" />
     </a>
     <a href="https://instagram.com/farhannsyhh" target="_blank">
-      <img src="https://img.shields.io/badge/INSTAGRAM-%40farhannsyhh-090d16?style=for-the-badge&logo=instagram&logoColor=f093fb" alt="Instagram" />
+      <img src="https://img.shields.io/badge/INSTAGRAM-%40farhannsyhh-0f172a?style=for-the-badge&logo=instagram&logoColor=38bdf8" alt="Instagram" />
     </a>
   </p>
 </div>
 
-<!-- Footer Neon Cyberpunk / Sci-Fi Futuristik -->
+<!-- Clean Futuristic Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f093fb,35:4facfe,70:00f2fe,100:090d16&height=130&section=footer&text=THANKS%20FOR%20VISITING%20%E2%80%A2%20SYSTEM%20READY&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%" alt="Cyberpunk Neon Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:0f172a,100:090d16&height=70&section=footer&text=SYSTEM%20READY%20%E2%80%A2%20FARHAN%20FIRMANSYAH&fontSize=13&fontColor=38bdf8&fontAlignY=50" width="100%" alt="Footer" />
 </div>
